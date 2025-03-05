@@ -1,0 +1,20 @@
+{
+  "name": "pixel-pet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm tsc && cp src/index.html dist/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Systemized/Pixel-Pet.git"
+  },
+  "author": "Systemized",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Systemized/Pixel-Pet/issues"
+  },
+  "homepage": "https://github.com/Systemized/Pixel-Pet#readme",
+  "description": ""
+}
