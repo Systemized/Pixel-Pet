@@ -11,7 +11,7 @@ Bundled with vite, and packaged using Tauri
 ```
 
 
-[Pixel-Pet app](../pixel-pet_readme.md)
+[Pixel-Pet app](/Pixel-Pet/src/assets/pixel-pet_readme.png)
 
 
 ## Prerequisites:
