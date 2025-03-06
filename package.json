@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "npm tsc && cp src/index.html dist/index.html",
+    "build": "tsc && cp src/index.html dist/index.html && cp -r src/assets dist/assets",
+    "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,11 @@
     "url": "https://github.com/Systemized/Pixel-Pet/issues"
   },
   "homepage": "https://github.com/Systemized/Pixel-Pet#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
 }

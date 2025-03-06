@@ -1,0 +1,8 @@
+node_modules
+
+dist
+
+.DS_Store
+
+# Not committed because i'm not sure what i should keep/ignore yet in here
+src-tauri/

@@ -1,5 +1,4 @@
 import Phaser from "phaser";
-import 'phaser3spectorjs';  // Make sure this line is added to enable the inspector
 
 class myScene extends Phaser.Scene {
 
