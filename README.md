@@ -18,24 +18,29 @@ Bundled with vite, and packaged using Tauri 2.0
 
 This code packages via Tauri, which is built on rust. Therefore rust [Rust](https://rustup.rs/) is required
 
-Then, Use 
+
+Install Tauri CLI in terminal
 
 ```npm install -D @tauri-apps/cli@latest```
 
-to install Tauri CLI in terminal
 
 ## Installation:
     
-Install dependencies 
+1. Install dependencies 
 
-```npm install```
+```bash
+npm install
+```
 
-run dev using 
+2. Run or Build
 
-```npx tauri dev```
+> Run dev
+```bash
+npx tauri dev
+```
 
-or 
 
-build app using 
-
-```npx tauri build```
+> Build app
+```bash
+npx tauri build
+```
