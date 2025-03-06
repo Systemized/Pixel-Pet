@@ -16,16 +16,16 @@ Bundled with vite, and packaged using Tauri
 
 ## Prerequisites:
 
-    This code packages via Tauri, which is built on rust. Therefore rust must be installed
+This code packages via Tauri, which is built on rust. Therefore rust must be installed
 
-    Then, Use `npm install -D @tauri-apps/cli@latest` to install Tauri CLI in terminal
+Then, Use `npm install -D @tauri-apps/cli@latest` to install Tauri CLI in terminal
 
 ## Installation:
     
-    Install dependencies using `npm install`
+Install dependencies using `npm install`
 
-    run dev using `npx tauri dev`
+run dev using `npx tauri dev`
 
-    or 
+or 
 
-    build app using `npx tauri build`
+build app using `npx tauri build`
